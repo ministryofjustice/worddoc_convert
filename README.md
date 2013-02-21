@@ -1,5 +1,6 @@
 worddoc_convert
 ===============
+A script for downloading word documents and converting them to HTML and PDF
 
 ##This script does 2 things:
  - downloads .docs and .rtf files from a CSV list
